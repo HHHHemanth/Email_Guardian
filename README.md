@@ -7,10 +7,10 @@ Welcome to the Email Guardian project, where we've harnessed the power of machin
 ## Overview
 
 ## Features
-Google Colab Integration: Leverage the capabilities of Google Colab for seamless data handling and model training.
-CountVectorizer Magic: Transform raw email text into numerical vectors with the powerful CountVectorizer.
-Multinomial Naive Bayes Classifier: Train the model using a robust text classification algorithm.
-User Interaction: Test the model in real-time by entering your own emails for instant predictions.
+1. Google Colab Integration: Leverage the capabilities of Google Colab for seamless data handling and model training.
+2. CountVectorizer Magic: Transform raw email text into numerical vectors with the powerful CountVectorizer.
+3. Multinomial Naive Bayes Classifier: Train the model using a robust text classification algorithm.
+4. User Interaction: Test the model in real-time by entering your own emails for instant predictions.
 ## Setup
 1. Clone the Repository:
 #bash
