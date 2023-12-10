@@ -20,7 +20,6 @@ Welcome to the Email Guardian project, where we've harnessed the power of machin
 ```cd Email_Guardian```
 
 2. Install Dependencies:
-
 #bash
 
 ```pip install pandas scikit-learn```
